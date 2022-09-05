@@ -1,1 +1,1 @@
-https://lucaslco.github.io/api-server/db.json
+https://my-json-server.typicode.com/LucasLCO/api-server/sensores
