@@ -1,0 +1,1 @@
+https://lucaslco.github.io/api-server/db.json
