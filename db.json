@@ -2,18 +2,18 @@
     "sensores" : [
         {
     "id": 0,
-    "sensor":"vazao",
+    "sensor":"vazão",
     "dataType":"0 L/h"
         },
         {
     "id": 1,
     "sensor":"volume",
-    "dataType":"0 L3"
+    "dataType":"0 L³"
         },
         {
     "id": 2,
     "sensor":"temperatura",
-    "dataType":"0 C"
+    "dataType":"0 °C"
         }
     ]
 }
